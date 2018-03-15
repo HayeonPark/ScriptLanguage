@@ -1,3 +1,5 @@
+import math
+
 if __name__ == "__main__":
     print("Hello, World!")
 
@@ -7,3 +9,4 @@ def div(a):
 num = input ("input any number : ")
 div(int(num))
 
+print(math.log(100))
